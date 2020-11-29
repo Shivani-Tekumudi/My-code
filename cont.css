@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    background-image: url(img.jpg);
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100px;
+}
+.taskbar{
+    background: black;
+    height: 40px;
+    width: 100%;
+}
+.con{
+    font-weight: 900;
+    font-size: 50px;
+    color: white;
+
+}
+.add{
+    color: white;
+    text-align: center;
+    font-size: 25px;
+}
+form{
+    padding: 20px;
+    font-weight: bold;
+    font-size: 30px;
+    color: white;
+}
+

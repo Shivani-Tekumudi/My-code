@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+   
+   background-image: url(img.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-left: 50px ;
+    padding-bottom: 50px;
+    border-style: double;
+    align-content: center;
+    color: aliceblue;
+
+}
+p{
+text-align: center;
+font-weight: bold;
+font-size: 30px;
+}
+
+form{
+    font-size: 20px;
+    width: 300px;
+
+    left: 200px;
+    bottom: 100px;
+    right: 100px;
+    top: 100px;
+    padding-left: 500px;
+    padding-top: 20px;
+    padding-bottom: 200px;
+
+
+}
+input{
+    margin-bottom: 20px;
+}
+button{
+    font-size: large;
+    border: 2px solid rgba(0,0,0,0.1);
+    padding: 10px;
+    
+}
+a{
+    text-decoration: none;
+    color: rgb(107, 107, 243);
+}

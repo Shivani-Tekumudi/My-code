@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.bod{
+
+background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.2)) , url(sea.jpg);
+    background-position: 100%,100%,100%,100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+nav{
+    background: rgba(0,0,0,0.4);
+    height: 12vh;
+    width: 100%;
+    align-items: center;
+    text-transform: uppercase;
+    justify-content: space-between;
+    list-style-type: square;
+    color: white;
+
+}
+.nav{
+    float: right;
+    height: fit-content;
+}
+.nav2{
+    margin-top: 30px;
+
+}
+.nav ul li {
+    display: inline;
+    padding: 20px;
+    line-height: 1.5;
+
+}
+.nav ul a{
+    text-decoration: none;
+    color: white;
+     padding-top: 15px;
+
+}
+.wel{
+    padding: 250px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-size:50px;
+}
